@@ -9,10 +9,12 @@ public class Main {
     public void ranimanichstatic(){
         System.out.println("Hello");
     }
+
     public static void main(String[] args) {
         afficherhello();
         Main raniobject= new Main();
         raniobject.ranimanichstatic();
+
 
 
         /*
